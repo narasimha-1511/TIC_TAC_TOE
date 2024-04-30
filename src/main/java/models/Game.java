@@ -1,7 +1,7 @@
-package sm2k4.greatTTT.models;
+package models;
 
-import sm2k4.greatTTT.exceptions.InvalidMoveException;
-import sm2k4.greatTTT.strategies.WinStrategy;
+import exceptions.InvalidMoveException;
+import stratergies.WinStrategy;
 
 import java.util.List;
 import java.util.ArrayList;

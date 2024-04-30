@@ -1,4 +1,4 @@
-package sm2k4.greatTTT.models;
+package models;
 
 public class Cell {
     private int row;

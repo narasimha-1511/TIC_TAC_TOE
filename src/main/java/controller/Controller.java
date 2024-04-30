@@ -1,12 +1,12 @@
-package sm2k4.greatTTT.controllers;
+package controller;
 
-import sm2k4.greatTTT.exceptions.InvalidMoveException;
-import sm2k4.greatTTT.models.Game;
-import sm2k4.greatTTT.models.GameState;
-import sm2k4.greatTTT.models.Player;
+import exceptions.InvalidMoveException;
+import models.Game;
+import models.GameState;
+import models.Player;
 import java.util.List;
 
-public class TTTController {
+public class Controller {
     public Game startGame(int size, List<Player> players) {
         return new Game(size, players);
     }

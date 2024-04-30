@@ -1,4 +1,4 @@
-package strategies;
+package stratergies;
 
 import models.Board;
 import models.Move;

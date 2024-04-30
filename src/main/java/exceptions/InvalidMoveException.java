@@ -1,4 +1,4 @@
-package sm2k4.greatTTT.exceptions;
+package exceptions;
 
 public class InvalidMoveException extends Exception {
     public InvalidMoveException(String message) {

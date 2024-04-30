@@ -1,4 +1,4 @@
-package sm2k4.greatTTT.models;
+package models;
 
 import java.util.List;
 import java.util.ArrayList;
